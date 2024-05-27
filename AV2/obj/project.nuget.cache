@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJMVKGPAlaa1Z9bF/1WleX19xDGC5IudabB3WSiSY2GjXAf1DVA7T4bbqzj6y/SeptceAka1B++ZudLMBs/qtQ==",
+  "success": true,
+  "projectFilePath": "/home/mariana.sena/LP3/AV2/AV2.csproj",
+  "expectedPackageFiles": [
+    "/home/mariana.sena/.nuget/packages/microsoft.data.sqlite/7.0.7/microsoft.data.sqlite.7.0.7.nupkg.sha512",
+    "/home/mariana.sena/.nuget/packages/microsoft.data.sqlite.core/7.0.7/microsoft.data.sqlite.core.7.0.7.nupkg.sha512",
+    "/home/mariana.sena/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/mariana.sena/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/home/mariana.sena/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/mariana.sena/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/mariana.sena/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
